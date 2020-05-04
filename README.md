@@ -10,8 +10,7 @@ Antes de utilizar este framework, voce devera ter instalado os seguintes itens:
 - Appium.
 - JDK 1.8 ou superior.
 
-<<<<<<< HEAD
-## Configuracao
+## Configuração
 Este é um software de auxílio para automação de testes. Ele deve ser importado via POM, no seu projeto Maven.
 
 
